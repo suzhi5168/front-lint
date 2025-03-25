@@ -8,7 +8,7 @@ export default defineConfig4CustomTheme({
       description: '前端编码规范工程化'
     }
   },
-  base: '/fe-spec/',
+  base: '/front-lint/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/index.md' },
@@ -75,19 +75,19 @@ export default defineConfig4CustomTheme({
         ]
       }
     ],
-    repo: 'encode-studio-fe/fe-spec',
+    repo: 'suzhi5168/front-lint',
     searchMaxSuggestions: 10,
     docsDir: 'docs',
     footer: {
       createYear: 2023,
       copyrightInfo:
-        'encode studio | <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank">github</a>'
+        'encode studio | <a href="https://github.com/suzhi5168/front-lint" target="_blank">github</a>'
     },
 
     extendFrontmatter: {
       author: {
-        name: '澄怀',
-        link: 'https://github.com/encode-studio-fe/fe-sepc'
+        name: 'feng',
+        link: 'https://github.com/suzhi5168/front-lint'
       }
     }
   },

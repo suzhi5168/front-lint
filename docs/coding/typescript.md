@@ -5,8 +5,8 @@ categories:
 tags:
     - 编码规范
 author:
-    name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    name: feng
+    link: https://github.com/suzhi5168/front-lint
 ---
 
 # TypeScript 编码规范

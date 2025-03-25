@@ -53,6 +53,6 @@ features:
 
 ## :email: 联系
 
--   **GitHub**: <https://github.com/encode-studio-fe/fe-spec>
+-   **GitHub**: <https://github.com/suzhi5168/front-lint>
 
 </br>

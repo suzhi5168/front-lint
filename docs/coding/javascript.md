@@ -5,8 +5,8 @@ categories:
 tags:
     - 编码规范
 author:
-    name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    name: feng
+    link: https://github.com/suzhi5168/front-lint
 ---
 
 # JavaScript 编码规范
@@ -49,16 +49,16 @@ author:
 
   ```javascript
   // bad - 导致 Uncaught ReferenceError 报错
-  const chenghuai = {}
-  const huaicheng = {}
-  [chenghuai, huaicheng].forEach((jedi) => {
+  const daxiao = {}
+  const xiaoda = {}
+  [daxiao, xiaoda].forEach((jedi) => {
     jedi.father = 'vader'
   })
 
   // good
-  const chenghuai = {};
-  const huaicheng = {};
-  [chenghuai, huaicheng].forEach((jedi) => {
+  const daxiao = {};
+  const xiaoda = {};
+  [daxiao, xiaoda].forEach((jedi) => {
     jedi.father = 'vader';
   });
 

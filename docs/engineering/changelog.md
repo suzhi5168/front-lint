@@ -5,8 +5,8 @@ categories:
 tags:
     - 工程规范
 author:
-    name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    name: feng
+    link: https://github.com/suzhi5168/front-lint
 ---
 
 # CHANGELOG 规范
