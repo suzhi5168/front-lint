@@ -1,6 +1,6 @@
 {
   "name": "feng-markdownlint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.json",
   "description": "markdown 文档规范",
   "author": "feng <469592873@qq.com>",

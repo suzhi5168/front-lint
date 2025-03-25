@@ -1,6 +1,6 @@
 {
   "name": "feng-commitlint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Git规范",
   "author": "feng <469592873@qq.com>",
