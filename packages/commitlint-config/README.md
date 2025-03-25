@@ -9,7 +9,7 @@
 使用时，需要安装 [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)：
 
 ```bash
-pnpm add -D @commitlint/cli feng-commitlint-config
+pnpm add -D @commitlint/cli conventional-changelog-conventionalcommits feng-commitlint-config
 ```
 
 ## 使用
