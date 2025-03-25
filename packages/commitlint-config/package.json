@@ -1,11 +1,11 @@
 {
-  "name": "feng-markdownlint-config",
+  "name": "feng-commitlint-config",
   "version": "1.0.0",
-  "main": "index.json",
-  "description": "markdown 文档规范",
+  "main": "index.js",
+  "description": "Git规范",
   "author": "feng <469592873@qq.com>",
   "keywords": [
-    "markdown",
+    "commit",
     "lint"
   ],
   "homepage": "https://github.com/suzhi5168/front-lint#readme",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/suzhi5168/front-lint/issues"
   },
-  "peerDependencies": {
-    "markdownlint": "^0.28.1"
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
   }
 }
