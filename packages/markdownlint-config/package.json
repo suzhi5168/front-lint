@@ -1,0 +1,23 @@
+{
+  "name": "feng-markdownlint-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "description": "markdown 文档规范",
+  "author": "feng <469592873@qq.com>",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/encode-studio-fe/fe-spec/issues"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
